@@ -1,3 +1,6 @@
+MAppsDefaultApp
+===============
+
 The MApps Default App is a BIRT project that is used as a starting guide for building BIRT applications. It contains the following:
 - An .rpttemplate file that can be used for all new report designs and is set up for auto-layout, landscape, no masterpage footer and scripts to automatically resize the first chart in the design. It also references the project's ThemesReportItems3.rptlibrary.
 - An index.html and associated demo.js file for opening this project as an application on the iHub and displaying a dashboard
